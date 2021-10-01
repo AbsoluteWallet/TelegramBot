@@ -1,0 +1,43 @@
+Используемые в боте ноды (автопереключение пока не реализовано)
+
+1. CLO
+1.1. нода от Инвиктус (https://ip-159-175.cust.aspone.cz/clonode)
+1.2. нода от Калисто (https://clo-geth.0xinfra.com)
+
+2. ETC
+2.1. нода от Инвиктус (https://ip-159-175.cust.aspone.cz/etcnode)
+2.2. EtherCluster (https://www.ethercluster.com/etc)
+
+3. ETH
+3.1. Нода от MEW (https://nodes.mewapi.io/rpc/eth)
+3.2. Поднять свою (Инвиктус?)
+3.3. Тест rinkeby (https://rinkeby-light.eth.linkpool.io/)
+
+4. BNB
+4.1. Оф. от Бинанс (https://dex-european.binance.org)
+4.2. Есть еще оф. от бинанс (пока не требовались)
+4.3. Тестовая от Бинанс (https://testnet-dex.binance.org)
+
+5. MATIC / POLYGON
+5.1. Оф. от Polygon (https://polygon-rpc.com/)
+5.2. Можно поднять свою, если будет потребность (Инвиктус?)
+5.3. Оф. тест от Matic (https://rpc-mumbai.matic.today)
+
+6. BSC
+6.1. Оф. от Бинанс (https://bsc-dataseed.binance.org/)
+6.2. Есть еще оф. от бинанс (пока не требовались)
+6.3. Тестовая от Бинанс (https://data-seed-prebsc-1-s2.binance.org:8545/)
+
+7. TRX
+7.1. Оф. TronGrid (платная) (https://api.trongrid.io)
+7.2. Желательно Поднять свою! (Инвиктус?)
+7.3. Оф. тест (Shasta) (https://api.shasta.trongrid.io/)
+7.4. Оф. тест (NIL) (https://nile.trongrid.io/)
+
+8, xDai
+8.1. Оф. от xDai (https://rpc.xdaichain.com/)
+8.2. Можно поднять свою, если будет потребность (Инвиктус?)
+
+9. BTC / LTC
+9.1. Ноды от Trezor (btc2.trezor.io, ltc1.trezor.io)
+9.2. Можно поднять свои. Но нужно будет переделывать модуль работы с классическими нодами, т.к. сейчас он заточен под Трезор и их Blokbook API

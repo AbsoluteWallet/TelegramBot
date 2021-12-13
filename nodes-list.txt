@@ -1,21 +1,21 @@
 Используемые в боте ноды (автопереключение пока не реализовано)
 
 1. CLO
-1.1. нода от Инвиктус (https://ip-159-175.cust.aspone.cz/clonode)
+1.1. нода от Инвиктус (https://ip-159-175.cust.aspone.cz/clonode) ("apikey": "98fOFtuMKOiU0jNYDJGrut6b")
 1.2. нода от Калисто (https://clo-geth.0xinfra.com)
 
 2. ETC
-2.1. нода от Инвиктус (https://ip-159-175.cust.aspone.cz/etcnode)
+2.1. нода от Инвиктус (https://ip-159-175.cust.aspone.cz/etcnode) ("apikey": "98fOFtuMKOiU0jNYDJGrut6b")
 2.2. EtherCluster (https://www.ethercluster.com/etc)
 
 3. ETH
 3.1. Нода от MEW (https://nodes.mewapi.io/rpc/eth)
-3.2. Поднять свою (Инвиктус?)
+3.2. нода от Инвиктус (https://ip-159-225.cust.aspone.cz/ethnode) ("apikey": "98fOFtuMKOiU0jNYDJGrut6b")
 3.3. Тест rinkeby (https://rinkeby-light.eth.linkpool.io/)
 
 4. BNB
-4.1. Оф. от Бинанс (https://dex-european.binance.org)
-4.2. Есть еще оф. от бинанс (пока не требовались)
+4.1. Оф. от Бинанс (https://dex-european.binance.org) 
+4.2. Оф. от Бинанс (https://dex.binance.org)
 4.3. Тестовая от Бинанс (https://testnet-dex.binance.org)
 
 5. MATIC / POLYGON
@@ -24,13 +24,15 @@
 5.3. Оф. тест от Matic (https://rpc-mumbai.matic.today)
 
 6. BSC
-6.1. Оф. от Бинанс (https://bsc-dataseed.binance.org/)
-6.2. Есть еще оф. от бинанс (пока не требовались)
+6.1. От Moralis (имеет rate limit) (https://speedy-nodes-nyc.moralis.io/728eb2d8c301caff59a454b4/bsc/mainnet)
+6.2. Оф. от Бинанс (https://bsc-dataseed.binance.org/)
+6.3. Оф. от Бинанс (https://bsc-dataseed1.defibit.io/)
+6.4. От Инвиктус (https://ip-159-233.cust.aspone.cz/bscnode) ("apikey": "98fOFtuMKOiU0jNYDJGrut6b")
 6.3. Тестовая от Бинанс (https://data-seed-prebsc-1-s2.binance.org:8545/)
 
 7. TRX
 7.1. Оф. TronGrid (платная) (https://api.trongrid.io)
-7.2. Желательно Поднять свою! (Инвиктус?)
+7.2. От Инвиктус (solidity: https://08.callisto.network/tronnode | full: https://08.callisto.network/tronnodefull)  ("apikey": "98fOFtuMKOiU0jNYDJGrut6b")
 7.3. Оф. тест (Shasta) (https://api.shasta.trongrid.io/)
 7.4. Оф. тест (NIL) (https://nile.trongrid.io/)
 
